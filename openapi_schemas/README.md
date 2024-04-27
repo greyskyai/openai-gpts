@@ -1,0 +1,2 @@
+# OpenAPI Schemas
+This directory contains OpenAPI schemas for custom GPTs which define how they can be interacted with via API. These schemas will provide all the endpoints, expected inputs, and outputs.
