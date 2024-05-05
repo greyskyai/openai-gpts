@@ -1,4 +1,5 @@
 # Description
+The HEC-RAS Docs Assistant answers your HEC-RAS related questions directly from the HEC-RAS documentation AND cites it's sources!
 # Instructions
 ```
 # Instructions
